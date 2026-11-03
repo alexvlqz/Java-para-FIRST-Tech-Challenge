@@ -26,6 +26,6 @@ public class Ciclos {
         // Imprimir los números del 1 al 20, pero:
         //  - Saltarse los múltiplos de 3 (usar continue)
         //  - Detener el ciclo por completo al llegar al 17 (usar break)
-
+        
     }
 }
