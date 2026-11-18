@@ -3,7 +3,7 @@ public class Comparaciones {
         double numero1 = 2.0;
         double numero2 = 1234124.0;
         double numero3 = 423.1;
-        double mayor = 0;
+        double mayor;
 
         if (numero1 > numero2 & numero1 > numero3) {
             mayor = numero1;
